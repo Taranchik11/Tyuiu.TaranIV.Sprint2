@@ -14,7 +14,7 @@ namespace Tyuiu.TaranIV.Sprint2.Task0.V5.Lib
             res[3] = x + 150 > y; // true
             res[4] = x + 150 <= y; // flase
             res[5] = x + 150 >= y; // true
-            
+
             return res;
         }
     }
